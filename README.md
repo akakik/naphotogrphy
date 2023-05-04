@@ -1,2 +1,2 @@
 # naphotogrphy
-Sample demo project of a photography website 
+Simple demo project of a photography website 
